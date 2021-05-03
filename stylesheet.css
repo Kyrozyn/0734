@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #ceb59f;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #ceb59f;
 	}
 }
 
